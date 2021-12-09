@@ -28,7 +28,16 @@ var questions=[{
   answer:"Indore"
 },{
   question:"Where do i work? ",
-  answer:"Microsoft"
+  answer:"Google"
+},{
+  question:"Who is my fav. hero?",
+  answer: "Govinda"
+},{
+  question: "Who is my fav. singer?",
+  answer : "Sonu nigam"
+},{
+  question: "How much member in my family",
+  answer: "6"
 }];
 for (var i=0;i<questions.length;i++){
   var currentquestion=questions[i];
