@@ -44,4 +44,4 @@ for (var i=0;i<questions.length;i++){
   play(currentquestion.question,currentquestion.answer)
 }
 console.log("yaa, you scored",score);
-console.log("highScore" , highScore[0],highScore[1])
+console.log("highScore" , highScore[0].scores)
